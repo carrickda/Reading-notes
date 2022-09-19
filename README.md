@@ -1,2 +1,2 @@
 # Reading-notes
-Notes form reading for class 102
+Notes from reading for class 102

@@ -1,6 +1,6 @@
 # Reading-notes
 
-*Notes from reading for class 102*
+**Notes from reading for class 102**
 
 ## What is the growth mindset?
 

@@ -20,5 +20,5 @@ The growth midset is a close companion of _grit_. What is _grit_ you may ask? _G
 ## Things I need to do to keep a growth mindset
 
 1) **GET GRIT** Sometimes I give up early on the learning becasue I don't think the lesson is worth the effort. I need to just push through and finish just to finish.
-2) **Remind myself the lesson is worth the fight** This piggy backs off of number 1.
+2) **Remind myself the lesson is worth the effort** See number one.
 3) **Focus on the learning instead of the effort needed to learn** I am always looking at the most efficient and effective ways to do things and I need to stop looking at whether it is efficient and focus on the fact that I am learning.

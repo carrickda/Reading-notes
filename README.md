@@ -1,3 +1,10 @@
+Hi My name is David Carrick and I live in Cedar Rapids Iowa. I have done a lot of different things in my lifetime. My undergrad degree was Mathmatics with and emphesis in Secondary Education. I spent time in the Education field as a tutor and full time teach in both Ohio and Georgia. I have a M.A. in Minstry from Grace College and Seminary in Indiana and have spent time as both a Senior Pastor and Youth Pastor. I have volenteered at a local alternative high school and worked with their robotics team. I am also a gamer and twitch streamer. Those two things are what have prompted my interset in coding.
+
+David Carrick
+1507 48th St NE
+Cedar Rapdis, IA 52402
+319-538-8828
+
 # Reading-notes
 
 **Notes from reading for class 102**

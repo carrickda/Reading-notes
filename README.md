@@ -22,3 +22,8 @@ The growth midset is a close companion of *grit*. What is *grit* you may ask? *G
 1. **GET GRIT** Sometimes I give up early on the learning becasue I don't think the lesson is worth the effort. I need to just push through and finish just to finish.  
 2. **Remind myself the lesson is worth the effort** See number one.  
 3. **Focus on the learning instead of the effort needed to learn** I am always looking at the most efficient and effective ways to do things and I need to stop looking at whether it is efficient and focus on the fact that I am learning.
+
+
+### Additional resources
+
+[Letter to a friend](Summery for a friend.md)

@@ -32,3 +32,8 @@ Have a good rest of your day
 David Carrick
 
 -[Back to Home page](/README.md)
+
+### Other Resources
+
+[Notes on Git](/GitNotes.md)
+[Notes on Text Editor](/TextEditorCommand.md)

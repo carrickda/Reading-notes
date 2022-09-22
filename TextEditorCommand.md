@@ -1,10 +1,10 @@
 # Text Editors and Command Lines
 
-## What is a text editor?
+## What is a text editor?  
 
 Simply put a text editor helps you write and manage code especially for web pages. It is one of the most important tools for a web developer. Choose wisely.
 
-## Different text Editors
+## Different text Editors  
 
 - The one that come on your computer (notepad, text edit, Gedit, etc)
 - Third Party editors (Notepad++, BB Edit{mac}, Visual Studio Code, Atom, Brackets, Sublime) text to name a few. Each one has different features and extensions.  
@@ -23,3 +23,8 @@ There is no one right text editor for everyone, but which is right for you? Choo
 Windows is a GUI interface where you click with your mouse to get results. Command line, or terminal is a text based interface with your system. You enter commands in the text box and feedback come back to you in text. There are certain commands that tell your computer to do something or give you certian information. some common commands are cd whcih is *change directory*. it is like in windows have a file folder open and clicking on a file inside that folder that yuou want to open. The command ls gives us a list of files in that dirtectory like when you have an opoen folder and can see everything inside it.  
 
 [Back Home](/README.md)
+
+### Other Resources
+
+[Notes on Git](/GitNotes.md)
+[Letter to a Friend](/SummeryForAFriend.md)

@@ -29,5 +29,7 @@ The whole thing is the elemante. The <h3> is the opening tag, "This is my header
 ### Other Resources
 
 [Letter to a Friend](/SummeryForAFriend.md)
+
 [Notes on Text Editor](/TextEditorCommand.md)
+
 [Notes on Git](/GitNotes.md)

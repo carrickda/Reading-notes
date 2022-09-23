@@ -27,3 +27,4 @@ The growth midset is a close companion of *grit*. What is *grit* you may ask? *G
 - [Letter to a Friend](/SummeryForAFriend.md)
 - [Notes on Text Editor](/TextEditorCommand.md)
 - [Notes on Git](/GitNotes.md)
+- [Note on Wireframs and HTML](/WireframeHTML.md)

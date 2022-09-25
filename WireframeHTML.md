@@ -33,3 +33,5 @@ The whole thing is the elemante. The <h3> is the opening tag, "This is my header
 [Notes on Text Editor](/TextEditorCommand.md)
 
 [Notes on Git](/GitNotes.md)
+
+[Notes on CSS](/CSSnotes.md)

@@ -31,3 +31,5 @@ Windows is a GUI interface where you click with your mouse to get results. Comma
 [Letter to a Friend](/SummeryForAFriend.md)
 
 [Notes on Wireframs and HTML](/WireframeHTML.md)
+
+[Notes on CSS](/CSSnotes.md)

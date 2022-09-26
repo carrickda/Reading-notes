@@ -29,3 +29,4 @@ The growth midset is a close companion of *grit*. What is *grit* you may ask? *G
 - [Notes on Git](/GitNotes.md)
 - [Note on Wireframs and HTML](/WireframeHTML.md)
 - [Notes on CSS](/CSSnotes.md)
+- [Notes on Java Script](/js1.md)

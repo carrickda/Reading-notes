@@ -15,12 +15,7 @@ There can be multuiple declarations, one for color and the other for font-size f
 
 1. External - A seperate style sheet that is referenced to inside a *link* elelment inside the head section of the HTML page.
 2. Internal - Can be used if one single HTML page has a unique style. It is defined inside the *style* element inside the head section.
-3. Inline - Used to apply a unique style for a single element. You add the style attribute to the revelent element. 
-
-
-
-
-
+3. Inline - Used to apply a unique style for a single element. You add the style attribute to the revelent element.
 
 [Back Home](/README.md)
 
@@ -33,3 +28,5 @@ There can be multuiple declarations, one for color and the other for font-size f
 [Notes on Wireframs and HTML](/WireframeHTML.md)
 
 [Notes on Git](/GitNotes.md)
+
+[Notes on Java Script](/js1.md)

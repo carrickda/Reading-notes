@@ -35,3 +35,5 @@ Windows is a GUI interface where you click with your mouse to get results. Comma
 [Notes on CSS](/CSSnotes.md)
 
 [Notes on Java Script](/js1.md)
+
+[Notes on Functions](/NotesOnFunctions.md)

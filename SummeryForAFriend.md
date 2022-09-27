@@ -44,3 +44,5 @@ David Carrick
 [Notes on CSS](/CSSnotes.md)
 
 [Notes on Java Script](/js1.md)
+
+[Notes on Functions](/NotesOnFunctions.md)

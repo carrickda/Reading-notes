@@ -30,3 +30,5 @@ There can be multuiple declarations, one for color and the other for font-size f
 [Notes on Git](/GitNotes.md)
 
 [Notes on Java Script](/js1.md)
+
+[Notes on Functions](/NotesOnFunctions.md)

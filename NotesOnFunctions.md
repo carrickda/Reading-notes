@@ -16,3 +16,4 @@ A JavaScript function is a block of code designed to perform a particular task. 
 - [Note on Wireframs and HTML](/WireframeHTML.md)
 - [Notes on CSS](/CSSnotes.md)
 - [Notes on Java Script](/js1.md)
+- [Notes on Operators and Loops](/OperatorsLoops.md)

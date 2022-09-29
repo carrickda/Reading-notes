@@ -42,3 +42,5 @@ Variables are containers for storing data (storing data values). All JavaScript 
 [Notes on Wireframs and HTML](/WireframeHTML.md)
 
 [Notes on Functions](/NotesOnFunctions.md)
+
+[Notes on Operators and Loops](/OperatorsLoops.md)

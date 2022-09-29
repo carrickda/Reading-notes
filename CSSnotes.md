@@ -32,3 +32,5 @@ There can be multuiple declarations, one for color and the other for font-size f
 [Notes on Java Script](/js1.md)
 
 [Notes on Functions](/NotesOnFunctions.md)
+
+[Notes on Operators and Loops](/OperatorsLoops.md)

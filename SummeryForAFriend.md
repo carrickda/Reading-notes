@@ -46,3 +46,5 @@ David Carrick
 [Notes on Java Script](/js1.md)
 
 [Notes on Functions](/NotesOnFunctions.md)
+
+[Notes on Operators and Loops](/OperatorsLoops.md)

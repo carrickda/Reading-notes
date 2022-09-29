@@ -39,3 +39,5 @@ The whole thing is the elemante. The <h3> is the opening tag, "This is my header
 [Notes on Java Script](/js1.md)
 
 [Notes on Functions](/NotesOnFunctions.md)
+
+[Notes on Operators and Loops](/OperatorsLoops.md)
